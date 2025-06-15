@@ -1,0 +1,6 @@
+{
+    "makefile.configureOnOpen": false,
+    "files.associations": {
+        "iom32.h": "c"
+    }
+}
